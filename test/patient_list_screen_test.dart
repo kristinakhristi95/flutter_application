@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:meditrack/screens/patient_list_screen.dart';
+import 'package:meditrack/models/patient.dart';
 
 void main() {
   group('PatientListScreen Widget Tests', () {
